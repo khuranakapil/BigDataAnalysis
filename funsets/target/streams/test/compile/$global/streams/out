@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kapil/Desktop/SCALA/funsets/src/test/scala/funsets/FunSetSuite.scala:73:37: not found: type <[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(forall(s, (x : Int => x<4)), "Forall")[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kapil/Desktop/SCALA/funsets/src/test/scala/funsets/FunSetSuite.scala:73:25: not found: value x[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(forall(s, (x : Int => x<4)), "Forall")[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

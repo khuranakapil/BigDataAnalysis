@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kapil/Desktop/SCALA/objsets/src/main/scala/objsets/TweetSet.scala:242:17: value trending is not a member of object objsets.GoogleVsApple[0m
+[0m[[0m[31merror[0m] [0m[0m  GoogleVsApple.trending foreach println[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

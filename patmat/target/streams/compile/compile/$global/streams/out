@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kapil/Desktop/SCALA/patmat/src/main/scala/patmat/Huffman.scala:266:49: recursive method convert_helper needs result type[0m
+[0m[[0m[31merror[0m] [0m[0m      case Fork(left, right, chars, weight) => {convert_helper(left, cdtable, 0 :: bitlist) ::: convert_helper(right, cdtable, 1 :: bitlist)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

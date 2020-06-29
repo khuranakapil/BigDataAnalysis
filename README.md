@@ -13,3 +13,5 @@ patmat: https://www.coursera.org/learn/progfun1/programming/uctOq/huffman-coding
 forcomp: https://www.coursera.org/learn/progfun1/programming/nVRPb/anagrams
 
 quickcheck: https://www.coursera.org/learn/progfun2/programming/DF4y7/quickcheck
+
+WPP: Case Study -- The Water pouring problem
